@@ -5,7 +5,7 @@ import java.util.Map;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class MovecraftMultiworldExtensions extends JavaPlugin {
+public class MovecraftMultiworldExtensions extends JavaPlugin { // test branch
 	
 	private static MovecraftMultiworldExtensions instance;
 	public static boolean doCircumnavigation = false, doHeightSwitching = false, doRegionSwitching = false;
